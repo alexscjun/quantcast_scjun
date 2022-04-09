@@ -12,5 +12,7 @@ Run JUnit maven tests with:
 ./most_active_cookie_test [path] [flag] [date]
 ```
 
-Note: the test files are in a subfolder, so update path appropriately.
-
+Notes:
+The test files are in a subfolder, so update path appropriately. 
+The build jar has also been conveniently exported to app.jar for convenience. The bash script targets app.jar. Updated build jars can be found in target.
+To view test output, open this project in an IDE and run an individual test class as a JUnit test.
