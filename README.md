@@ -9,7 +9,7 @@ Run the project with:
 
 Run JUnit maven tests with:
 ```
-./most_active_cookie_test [path] [flag] [date]
+./most_active_cookie_test
 ```
 
 Notes:
